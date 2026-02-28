@@ -30,6 +30,7 @@ colors.get_colors = function()
             vscCursorLight = '#AEAFAD',
             vscSelection = '#264F78',
             vscLineNumber = '#5A5A5A',
+            vscNonText = '#222222',
             vscWhitespace = '#222222',
 
             vscDiffRedDark = '#4B1818',
